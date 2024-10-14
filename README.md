@@ -39,6 +39,6 @@ Sinta-se à vontade para entrar em contato através do [LinkedIn](www.linkedin.c
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/franciele-lira/seu-repositorio)
-![GitHub stars](https://img.shields.io/github/stars/franciele-lira/seu-repositorio?style=social)
-![License](https://img.shields.io/github/license/franciele-lira/seu-repositorio)
+![GitHub repo size](https://img.shields.io/github/repo-size/franciele-lira/Trilha-de-Estudos-em-Intelig-ncia-Artificial)
+![GitHub stars](https://img.shields.io/github/stars/franciele-lira/Trilha-de-Estudos-em-Intelig-ncia-Artificial)
+![License](https://img.shields.io/github/license/franciele-lira/Trilha-de-Estudos-em-Intelig-ncia-Artificial)
