@@ -9,6 +9,7 @@
 - [Cursos](#cursos)
 - [Projetos](#projetos)
 - [IA](#IA)
+- [ChatBot](#ChatBot)
 -  [aplicativos](#APP)
 - [Contato](#contato)
 
@@ -36,7 +37,14 @@ Estou atualmente me aprofundando em Inteligência Artificial, explorando diferen
 - Copilot
 - Gemini
 - IA no Excel
-- 
+
+## 📍ChatBot
+Este chatbot foi criado apenas para praticar o que aprendi durante a semana. Achei interessante aplicar alguns conceitos que estudei sobre IA.
+ ⚠️ Observação: Eu não tenho familiaridade com Python, então tudo o que utilizei foi baseado em pesquisas na internet, fóruns e documentação.⚠️
+- O chatbot possui perguntas pré-definidas para sua funcionalidade (isso será modificado conforme os estudos avancem);
+- Utilizei o VSCode como IDE;
+- Toda ajuda é bem-vinda! Se você encontrar algo que pode ser melhorado, por favor, sinta-se à vontade para colaborar com o projeto.
+ 
 
 ## 📍aplicativos
 - Excel
