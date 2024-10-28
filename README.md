@@ -1,4 +1,10 @@
 # Trilha de Estudos em Inteligencia Artificial 🧠
+
+
+<p align="center">
+  <img src="https://s2.ezgif.com/tmp/ezgif-2-b67cb40b69.gif" width="600px">
+</p>
+
  💡 " Proposito deste repositorio é documentar e deixar salvo minha trilha de estudos sobre Inteligencia artificial. " 💡
 
 ### Bem-vindo ao meu repositório de estudos em IA! Aqui você encontrará minha jornada de aprendizado, incluindo cursos, projetos e recursos adicionais.
